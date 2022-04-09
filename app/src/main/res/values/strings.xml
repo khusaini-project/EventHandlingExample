@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EventHandlingExample</string>
+    <string name="welcome_message">Welcome Message</string>
+    <string name="display_mesage">Display Mesage</string>
+    <string name="display_message">display_message</string>
+</resources>
